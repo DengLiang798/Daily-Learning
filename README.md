@@ -1,2 +1,7 @@
-# Daily-Learing
-Record a second year master's student in science learning code every day.
+# 👋 Hi, I'm Deng Liang
+这里是我的研二学码日记，主要记录：
+- c艹抛开大模型刷leetcode
+- 🌌 空间物理与 Geant4 模拟
+- 🐍 Python 编程与算法学习
+
+### 📖 [点击这里阅读我的最新笔记 (Blog)](https://github.com/DengLiang798/Daily-Learing/issues)
